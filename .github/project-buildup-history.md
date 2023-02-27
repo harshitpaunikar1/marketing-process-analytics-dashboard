@@ -16,3 +16,7 @@
 
 - Task summary: Saturday morning — couldn't stop thinking about the edge case from Friday. Opened the notebook and patched it before I forgot.
 - Deliverable: Good enough to not be embarrassing.
+## 2023-02-27 - Day 3: Scope pass
+
+- Task summary: By this point I had the rough direction, so the work became more practical. I spent most of the day trying to decide what belongs in version 1 and what can wait and make the whole thing feel less half baked. Once the base made some sense, I could finally move a bit faster and stop second guessing every tiny decision. I was also trying to keep the idea grounded so it did not drift into random features for no reason.
+- Deliverable: I wrapped up the day with feature scope mostly in place. It was not perfect, but it was good enough to keep the project moving. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
