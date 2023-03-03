@@ -40,3 +40,7 @@
 
 - Task summary: Noticed something off from this morning — spent time just reading back through everything to make sure it still made sense end to end.
 - Deliverable: Wrapped it up properly this time.
+## 2023-03-03 - Day 7: HTML scaffold
+
+- Task summary: After stepping away for a bit, came back and the variable names were inconsistent so cleaned those up across the notebook before calling it done.
+- Deliverable: Small fix, clean result.
