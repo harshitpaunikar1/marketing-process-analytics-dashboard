@@ -44,3 +44,7 @@
 
 - Task summary: After stepping away for a bit, came back and the variable names were inconsistent so cleaned those up across the notebook before calling it done.
 - Deliverable: Small fix, clean result.
+## 2023-03-05 - Day 7: HTML scaffold
+
+- Task summary: Half-day Saturday session. Decided to finish the README section I skipped on Friday — cleaner now.
+- Deliverable: Cleaner than this morning's version.
