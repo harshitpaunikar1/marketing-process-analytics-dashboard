@@ -48,3 +48,7 @@
 
 - Task summary: Half-day Saturday session. Decided to finish the README section I skipped on Friday — cleaner now.
 - Deliverable: Cleaner than this morning's version.
+## 2023-03-06 - Day 8: Styling
+
+- Task summary: This was the middle stretch where the project started feeling real. I kept going and tried to apply layout, spacing, color, and typography until the project reads clearly, then cleaned up whatever looked confusing or weak from the earlier days. By now I had enough structure to keep going without staring at the screen too long, which honestly helped a lot. This kind of work is mostly small decisions stacked together, even if it does not look dramatic from outside.
+- Deliverable: Ended the day with usable UI in hand, plus a few side notes on what still needed fixing later. It was not super polished, just stable enough that I felt okay moving forward.
