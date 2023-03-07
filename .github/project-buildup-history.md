@@ -56,3 +56,7 @@
 
 - Task summary: One more pass: wrapped a repeated block in a helper function since it showed up three times.
 - Deliverable: Wrapped it up properly this time.
+## 2023-03-07 - Day 9: Interactions
+
+- Task summary: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to add the minimum JavaScript interactions needed to make the flow understandable so the final result looked a bit more complete. Once the base made some sense, I could finally move a bit faster and stop second guessing every tiny decision. I was also trying to keep the idea grounded so it did not drift into random features for no reason.
+- Deliverable: Ended the day with working interactions in hand, plus a few side notes on what still needed fixing later. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
