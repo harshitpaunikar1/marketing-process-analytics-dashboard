@@ -12,3 +12,7 @@
 
 - Task summary: Added a data freshness requirement to the pipeline design — the dashboard needs to reflect events within a 4-hour window, which rules out batch processing approaches and requires near-realtime or micro-batch.
 - Deliverable: 4-hour freshness requirement documented. Micro-batch approach selected over nightly batch.
+## 2024-08-19 - Day 3: Data pipeline design
+
+- Task summary: Created a schema diagram for the unified marketing events table that the dashboard will read from. Included field descriptions and data type notes.
+- Deliverable: Unified events table schema created and documented.
