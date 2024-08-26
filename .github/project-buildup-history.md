@@ -20,3 +20,7 @@
 
 - Task summary: Built the dashboard mockup for the Marketing Process Analytics project. Used a simple Figma-style layout documented in the case study with annotations showing what each panel shows and why. The four key panels are: campaign performance overview, channel attribution breakdown, lead pipeline health, and cost per acquisition trend. Added explanatory notes for why each view was chosen over alternatives.
 - Deliverable: Dashboard mockup complete with four panels and design rationale documented.
+## 2024-08-26 - Day 4: Dashboard mockup
+
+- Task summary: Revised the channel attribution panel after realizing last-touch attribution was too simplistic for this use case. Replaced with a first-touch and multi-touch comparison view.
+- Deliverable: Attribution panel revised from last-touch to multi-touch comparison.
