@@ -16,3 +16,7 @@
 
 - Task summary: Created a schema diagram for the unified marketing events table that the dashboard will read from. Included field descriptions and data type notes.
 - Deliverable: Unified events table schema created and documented.
+## 2024-08-26 - Day 4: Dashboard mockup
+
+- Task summary: Built the dashboard mockup for the Marketing Process Analytics project. Used a simple Figma-style layout documented in the case study with annotations showing what each panel shows and why. The four key panels are: campaign performance overview, channel attribution breakdown, lead pipeline health, and cost per acquisition trend. Added explanatory notes for why each view was chosen over alternatives.
+- Deliverable: Dashboard mockup complete with four panels and design rationale documented.
