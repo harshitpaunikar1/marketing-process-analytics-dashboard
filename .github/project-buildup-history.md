@@ -24,3 +24,7 @@
 
 - Task summary: Revised the channel attribution panel after realizing last-touch attribution was too simplistic for this use case. Replaced with a first-touch and multi-touch comparison view.
 - Deliverable: Attribution panel revised from last-touch to multi-touch comparison.
+## 2024-10-21 - Day 5: Metric definitions
+
+- Task summary: Spent today writing rigorous metric definitions for the Marketing Process Analytics Dashboard. Each metric got a precise definition, the calculation formula, the data source and join logic, the expected update frequency, and a worked example with real-sounding numbers. This level of documentation is often skipped in product work but prevents significant confusion when engineering builds the pipeline and when stakeholders interpret the numbers.
+- Deliverable: Metric definitions written with formulas, sources, and worked examples.
