@@ -28,3 +28,7 @@
 
 - Task summary: Spent today writing rigorous metric definitions for the Marketing Process Analytics Dashboard. Each metric got a precise definition, the calculation formula, the data source and join logic, the expected update frequency, and a worked example with real-sounding numbers. This level of documentation is often skipped in product work but prevents significant confusion when engineering builds the pipeline and when stakeholders interpret the numbers.
 - Deliverable: Metric definitions written with formulas, sources, and worked examples.
+## 2024-10-21 - Day 5: Metric definitions
+
+- Task summary: Noticed that two metrics were being calculated at different granularities (one at session level, one at user level) but being placed side by side in the dashboard in a way that implied they were comparable. Added a warning annotation and adjusted the layout.
+- Deliverable: Granularity mismatch between two metrics annotated and layout adjusted.
