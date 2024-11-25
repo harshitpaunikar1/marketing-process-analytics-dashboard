@@ -36,3 +36,7 @@
 
 - Task summary: Completed the Marketing Process Analytics Dashboard case study. Finalized the PRD-style document with all sections filled in: background and problem, success metrics, proposed solution, technical requirements, data model, and rollout plan. Wrote a phased rollout section showing three phases of increasing dashboard scope — helps make the project feel incremental and realistic rather than big-bang.
 - Deliverable: PRD-style document complete with phased rollout plan.
+## 2024-11-25 - Day 6: Final document
+
+- Task summary: Added a stakeholder matrix to the document — who owns each metric, who consumes the dashboard, and who needs to approve the data model. Makes the document more useful as an actual working artifact.
+- Deliverable: Stakeholder matrix added.
