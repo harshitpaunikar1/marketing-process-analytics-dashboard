@@ -32,3 +32,7 @@
 
 - Task summary: Noticed that two metrics were being calculated at different granularities (one at session level, one at user level) but being placed side by side in the dashboard in a way that implied they were comparable. Added a warning annotation and adjusted the layout.
 - Deliverable: Granularity mismatch between two metrics annotated and layout adjusted.
+## 2024-11-25 - Day 6: Final document
+
+- Task summary: Completed the Marketing Process Analytics Dashboard case study. Finalized the PRD-style document with all sections filled in: background and problem, success metrics, proposed solution, technical requirements, data model, and rollout plan. Wrote a phased rollout section showing three phases of increasing dashboard scope — helps make the project feel incremental and realistic rather than big-bang.
+- Deliverable: PRD-style document complete with phased rollout plan.
