@@ -6,11 +6,11 @@
 - Source: `project_buildup_2021_2025_daily_plan_extra.csv`
 ## 2024-08-19 - Day 3: Data pipeline design
 
-- Task summary: Worked on the data pipeline design for the Marketing Process Analytics Dashboard. The dashboard needs to pull from three source systems — CRM, marketing automation platform, and web analytics. Sketched the data flow diagram and identified the join keys between each system. The main challenge is that customer IDs are not consistent across all three — CRM uses an internal ID, the marketing platform uses email, and web analytics uses a cookie ID. Designed a probabilistic matching step to reconcile the three.
+- Task summary: Worked on the data pipeline design for the Marketing Process Analytics Dashboard. The dashboard needs to pull from three source systems - CRM, marketing automation platform, and web analytics. Sketched the data flow diagram and identified the join keys between each system. The main challenge is that customer IDs are not consistent across all three - CRM uses an internal ID, the marketing platform uses email, and web analytics uses a cookie ID. Designed a probabilistic matching step to reconcile the three.
 - Deliverable: Data flow designed. ID reconciliation approach using probabilistic matching documented.
 ## 2024-08-19 - Day 3: Data pipeline design
 
-- Task summary: Added a data freshness requirement to the pipeline design — the dashboard needs to reflect events within a 4-hour window, which rules out batch processing approaches and requires near-realtime or micro-batch.
+- Task summary: Added a data freshness requirement to the pipeline design - the dashboard needs to reflect events within a 4-hour window, which rules out batch processing approaches and requires near-realtime or micro-batch.
 - Deliverable: 4-hour freshness requirement documented. Micro-batch approach selected over nightly batch.
 ## 2024-08-19 - Day 3: Data pipeline design
 
@@ -34,9 +34,9 @@
 - Deliverable: Granularity mismatch between two metrics annotated and layout adjusted.
 ## 2024-11-25 - Day 6: Final document
 
-- Task summary: Completed the Marketing Process Analytics Dashboard case study. Finalized the PRD-style document with all sections filled in: background and problem, success metrics, proposed solution, technical requirements, data model, and rollout plan. Wrote a phased rollout section showing three phases of increasing dashboard scope — helps make the project feel incremental and realistic rather than big-bang.
+- Task summary: Completed the Marketing Process Analytics Dashboard case study. Finalized the PRD-style document with all sections filled in: background and problem, success metrics, proposed solution, technical requirements, data model, and rollout plan. Wrote a phased rollout section showing three phases of increasing dashboard scope - helps make the project feel incremental and realistic rather than big-bang.
 - Deliverable: PRD-style document complete with phased rollout plan.
 ## 2024-11-25 - Day 6: Final document
 
-- Task summary: Added a stakeholder matrix to the document — who owns each metric, who consumes the dashboard, and who needs to approve the data model. Makes the document more useful as an actual working artifact.
+- Task summary: Added a stakeholder matrix to the document - who owns each metric, who consumes the dashboard, and who needs to approve the data model. Makes the document more useful as an actual working artifact.
 - Deliverable: Stakeholder matrix added.
